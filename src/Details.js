@@ -140,6 +140,6 @@ export const projectDetails = [
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "udaykota4u@gmail.com",
+  email: "12111024cse@gmail.com",
   phone: "+91 8555038018",
 };
